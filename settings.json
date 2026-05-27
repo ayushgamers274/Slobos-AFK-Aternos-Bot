@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "24/7 Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Fairsmpserver.aternos.me",
     "port": 18376,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Dont kill me I am 24/7 Bot",
+        "Subscribe to AyushxPlayz!",
         "I like to play Minecraft!"
       ]
     },
